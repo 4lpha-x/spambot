@@ -3,7 +3,7 @@ A typing spam bot which help you to spam in social medias...
 
 You can add wordlist of any length. I've added an example wordlist (eg wordlist.txt) so that you can understand the structure of a wordlist.
 
-External module required: pyautogui
+External module required: pyautogui (Unfortunately this module also doesn't work in android so as the tool)
 
 Command for external module:
 >>> pip install pyautogui
