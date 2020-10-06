@@ -15,3 +15,6 @@ Commands:
 Now enter the inputs asked from you and boooooommmm!!!!
 
 Note:- Put the spambot.py and wordlist textfile in the same folder or directory
+
+You are free to edit and suggest new changes to this program.
+Thanks for your attention...
